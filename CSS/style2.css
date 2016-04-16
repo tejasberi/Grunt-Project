@@ -1,0 +1,6 @@
+/*This is css file 2*/
+span{
+	display: inline-block;
+	width:300px;
+	border:1px solid black;
+}
